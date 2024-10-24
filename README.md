@@ -70,4 +70,4 @@ A simple tool for generating QR codes for various data inputs.
 ## 📫 Contact Me
 
 - 📧 Email: m.vigneshwaralingam@gmail.com
-- 💼 LinkedIn:(https:(https://www.linkedin.com/in/vigneshwaralingam-m-5815b429a)
+- 💼 LinkedIn:(https://www.linkedin.com/in/vigneshwaralingam-m-5815b429a)
